@@ -1,0 +1,3 @@
+hammond_church_homepage:
+    pattern:  / 
+    defaults: { _controller: HammondChurchBundle:Default:index }

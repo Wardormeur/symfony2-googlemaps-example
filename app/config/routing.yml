@@ -1,0 +1,4 @@
+hammond_church:
+    resource: "@HammondChurchBundle/Resources/config/routing.yml"
+    prefix:   /
+
